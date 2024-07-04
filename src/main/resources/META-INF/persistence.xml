@@ -26,9 +26,9 @@
 
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
-            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://slon.felk.cvut.cz:5432/bekeoluc" />
-            <property name="javax.persistence.jdbc.user" value="bekeoluc" />
-            <property name="javax.persistence.jdbc.password" value="NIENNA/007/nienna" />
+            <property name="javax.persistence.jdbc.url" value="URL DELETED" />
+            <property name="javax.persistence.jdbc.user" value="USERNAME DELETER" />
+            <property name="javax.persistence.jdbc.password" value="PASSWORD DELETED" />
 
             <!-- create database schema from entities-->
             <property name="javax.persistence.schema-generation.database.action" value="create" />
