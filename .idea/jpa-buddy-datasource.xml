@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="0e7958be-1e3c-4ab7-a2db-933346ad8633" name="slon.felk.cvut.cz" url="jdbc:postgresql://localhost/dbs_app" driverClass="org.postgresql.Driver" />
+      <data-source id="3d0c5f93-4fed-4e2a-b18b-08b3d938142d" name="MusicFestival" url="jdbc:postgresql://slon.felk.cvut.cz/bekeoluc" driverClass="org.postgresql.Driver" />
+    </data-sources>
+  </component>
+</project>
